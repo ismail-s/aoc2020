@@ -29,3 +29,6 @@ jobs:
 
       - name: Run day3 solutions
         run: emacs --script day3.elc
+
+      - name: Run day4 solutions
+        run: emacs --script day4.elc
