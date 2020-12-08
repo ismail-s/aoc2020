@@ -38,3 +38,6 @@ jobs:
 
       - name: Run day6 solutions
         run: emacs --script day6.elc
+
+      - name: Run day7 solutions
+        run: emacs --script day7.elc
