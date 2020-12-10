@@ -47,3 +47,6 @@ jobs:
 
       - name: Run day9 solutions
         run: emacs --script day9.elc
+
+      - name: Run day10 solutions
+        run: emacs --script day10.elc
