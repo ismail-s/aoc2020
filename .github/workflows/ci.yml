@@ -50,3 +50,6 @@ jobs:
 
       - name: Run day10 solutions
         run: emacs --script day10.elc
+
+      - name: Run day11 solutions
+        run: emacs --script day11.elc
