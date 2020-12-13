@@ -56,3 +56,6 @@ jobs:
 
       - name: Run day12 solutions
         run: emacs --script day12.elc
+
+      - name: Run day13 solutions
+        run: emacs --script day13.elc
