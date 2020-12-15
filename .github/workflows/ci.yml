@@ -62,3 +62,6 @@ jobs:
 
       - name: Run day14 solutions
         run: emacs --script day14.elc
+
+      - name: Run day15 solutions
+        run: emacs --script day15.elc
