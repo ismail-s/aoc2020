@@ -76,6 +76,11 @@ jobs:
       - name: Run day18 solutions
         run: |
           cd day18
-          stack setup
           stack build
           stack exec day18-exe
+
+      - name: Run day19 solutions
+        run: |
+          cd day19
+          stack build
+          stack exec day19-exe
